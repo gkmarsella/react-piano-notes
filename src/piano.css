@@ -1,6 +1,10 @@
 		/* Piano Display */
 /* Keys */
 
+.react-countdown-clock {
+	border-radius: 200px;
+}
+
 * { box-sizing:border-box; }
 
 body{ margin:0; background:#222; }

@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
-import Notes from './notes.js'
+import PianoKeys from './piano-keys.js'
 
 class Piano extends Component {
 	render() {
 		return (
 			<div>
-				<Notes />
+				<PianoKeys />
 			</div>
 		)
 	}
